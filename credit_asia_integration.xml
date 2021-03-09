@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export date="17.02.2021 17:39:26">
+	<name>SmartPhone</name>
+	<company>CreditAsia</company>
+	<url>https://www.creditasia.uz</url>
+	<currencies>
+
+	</currencies>
+	<categories>
+		<category id="597">Все смартфоны</category>
+	</categories>
+	<items>
+		<item>
+			<param name="название производителя смартфона">Samsung</param>
+			<param name="модель">QWER Dark Blue</param>
+			<param name="процессор">7	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">15 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">16 ГБ</param>
+			<param name="цена за полную стоимость">13205 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Galaxy Note84523543</param>
+			<param name="ид">1827119</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000005656</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">Samsung</param>
+			<param name="модель">SM-N950FFGETD Black</param>
+			<param name="процессор">8	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Galaxy Note720</param>
+			<param name="ид">1827120</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000005657</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">APPLE</param>
+			<param name="модель">7 32Gb Jet Black RED</param>
+			<param name="процессор">4 Ядер</param>
+			<param name="тип дисплея и его размер">4.7&quot; (10.16 см)</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="встроеная память">32 ГБ</param>
+			<param name="цена за полную стоимость">8071100 сум</param>
+			<param name="цена в рассрочку">От 674609 сум/мес</param>
+			<param name="емкость батареи">1960 мАч</param>
+			<param name="название модели">A1778 IPhone</param>
+			<param name="ид">1827159</param>
+			<param name="разрешение фронтальной камеры">7 МП</param>
+			<param name="код">X0000005658</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">APPLE</param>
+			<param name="модель">16 PLUS 32Gb Jet Black</param>
+			<param name="процессор">A10 Fusion + M10 4 Ядер</param>
+			<param name="тип дисплея и его размер">5.5&quot; (14 см)</param>
+			<param name="разрешение камеры">12+12 МП</param>
+			<param name="встроеная память">32 ГБ</param>
+			<param name="цена за полную стоимость">9993000 сум</param>
+			<param name="цена в рассрочку">От 835248 сум/мес</param>
+			<param name="емкость батареи">2900 мАч</param>
+			<param name="название модели">A1784 IPhone</param>
+			<param name="ид">1827160</param>
+			<param name="разрешение фронтальной камеры">7 МП</param>
+			<param name="код">X0000005659</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">APPLE</param>
+			<param name="модель">14 64Gb Silver</param>
+			<param name="процессор">6 Ядер</param>
+			<param name="тип дисплея и его размер">4.7&quot; (10.16 см)</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">2 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">10448000 сум</param>
+			<param name="цена в рассрочку">От 873279 сум/мес</param>
+			<param name="емкость батареи">1821 мАч</param>
+			<param name="название модели">A1905 IPhone</param>
+			<param name="ид">1827161</param>
+			<param name="разрешение фронтальной камеры">7 МП</param>
+			<param name="код">X0000005660</param>
+		</item>
+	</items>
+</export>
