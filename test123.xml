@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export date="10.03.2021 00:00:41">
+	<name>SmartPhone</name>
+	<company>CreditAsia</company>
+	<url>https://www.creditasia.uz</url>
+	<currencies>
+
+	</currencies>
+	<categories>
+		<category id="0101">Тест интеграции</category>
+	</categories>
+	<items>
+		<item>
+			<param name="название производителя смартфона">Тестовый производитель</param>
+			<param name="модель">Тестовая модель</param>
+			<param name="процессор">8	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Тест</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000001111</param>
+		</item>
+        <item>
+			<param name="модель">Тестовая модель2</param>
+			<param name="процессор">8	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Тест2</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000002222</param>
+		</item>
+        <item>
+			<param name="название производителя смартфона">Тестовый производитель3</param>
+			<param name="процессор">8	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Тест3</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000002223</param>
+		</item>
+        <item>
+			<param name="модель">Тестовая модель4</param>
+			<param name="процессор">8	 Ядер</param>
+			<param name="тип дисплея и его размер">6.3&quot; (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">64 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000002224</param>
+		</item>
+    </items>
+</export>
