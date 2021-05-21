@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export date="10.03.2021 00:00:41">
+	<name>SmartPhone</name>
+	<company>CreditAsia</company>
+	<url>https://www.creditasia.uz</url>
+	<currencies>
+
+	</currencies>
+	<categories>
+		<category id="0101">Тест интеграции</category>
+	</categories>
+	<items>
+		<item>
+		    <param name="название производителя смартфона">Samsung</param>
+		    <param name="модель">SM-N950F Dark Blue</param>
+		    <param name="процессор">8 Ядер</param>
+		    <param name="тип дисплея и его размер">6.3" (15.24 см) Super AMOLED</param>
+		    <param name="разрешение камеры">12 МП</param>
+		    <param name="оперативная память">6 Гб</param>
+		    <param name="встроеная память">64 ГБ</param>
+		    <param name="цена за полную стоимость">13205000 сум</param>
+		    <param name="цена в рассрочку">От 1103718 сум/мес</param>
+		    <pricelist>
+		        <!-- 
+		        Список вариантов для отображения в ГЦ. 
+		        Если список пустой, то выводится просто "цена в рассрочку" и "полная стоимость" 
+		        Соответственно, по смыслу должен содержать хотя бы два элемента:
+		            Один для самого устройства
+		            Один для остальных вариантов
+		        -->
+		        <item>
+		            <param name="характеристика группы">64 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">128 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">256 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		    </pricelist>
+		    <param name="емкость батареи">3300 мАч</param>
+		    <param name="название модели">Galaxy Note8</param>
+		    <param name="разрешение фронтальной камеры">8 МП</param>
+		    <param name="код">X0000003668</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">Samsung</param>
+			<param name="модель">SM-N950F Black</param>
+			<param name="процессор">8	Ядер</param>
+			<param name="тип дисплея и его размер">6.3" (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">128 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<pricelist>
+		        <!-- 
+		        Список вариантов для отображения в ГЦ. 
+		        Если список пустой, то выводится просто "цена в рассрочку" и "полная стоимость" 
+		        Соответственно, по смыслу должен содержать хотя бы два элемента:
+		            Один для самого устройства
+		            Один для остальных вариантов
+		        -->
+		        <item>
+		            <param name="характеристика группы">64 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">128 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">256 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		    </pricelist>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Galaxy Note8</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000003669</param>
+		</item>
+		<item>
+			<param name="название производителя смартфона">Samsung</param>
+			<param name="модель">SM-N950F Yellow</param>
+			<param name="процессор">8	Ядер</param>
+			<param name="тип дисплея и его размер">6.3" (15.24 см) Super AMOLED</param>
+			<param name="разрешение камеры">12 МП</param>
+			<param name="оперативная память">6 Гб</param>
+			<param name="встроеная память">256 ГБ</param>
+			<param name="цена за полную стоимость">13205000 сум</param>
+			<param name="цена в рассрочку">От 1103718 сум/мес</param>
+			<pricelist>
+		        <!-- 
+		        Список вариантов для отображения в ГЦ. 
+		        Если список пустой, то выводится просто "цена в рассрочку" и "полная стоимость" 
+		        Соответственно, по смыслу должен содержать хотя бы два элемента:
+		            Один для самого устройства
+		            Один для остальных вариантов
+		        -->
+		        <item>
+		            <param name="характеристика группы">64 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">128 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		        <item>
+		            <param name="характеристика группы">256 ГБ</param>
+		            <param name="цена в рассрочку">От 1503718 сум/мес</param>
+		            <param name="цена за полную стоимость">13205000 сум</param>
+		        </item>
+		    </pricelist>
+			<param name="емкость батареи">3300 мАч</param>
+			<param name="название модели">Galaxy Note8</param>
+			<param name="разрешение фронтальной камеры">8 МП</param>
+			<param name="код">X0000003669</param>
+		</item>
+        
+    </items>
+</export>
